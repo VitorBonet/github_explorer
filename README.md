@@ -3,11 +3,11 @@
 </h1>
 
 <h1>
-  <img src="src/assets/gitExplore.png" >
+  <img src="src/assets/gitExplore.PNG" >
 </h1>
 
 <h1>
-  <img src="src/assets/gitExplore2.png" >
+  <img src="src/assets/gitExplore2.PNG" >
 </h1>
 
 ## Indice
